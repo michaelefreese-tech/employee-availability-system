@@ -32,11 +32,9 @@ Status: **Active development (internal system adapted for public showcase)**
 ---
 
 ## 💡 Why I Built This
-It automates validation, formatting, and structure—reducing mistakes and improving efficiency in day-to-day store operations.
 Built from real operational experience managing high-volume shifts.
 
-This system was built to streamline the process by automating validation, formatting, and structure—reducing mistakes and improving efficiency in day-to-day store operations.
-
+It automates validation, formatting, and structure—reducing mistakes and improving efficiency in day-to-day store operations.
 ---
 
 ## ⚙️ Key Features
