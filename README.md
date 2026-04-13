@@ -106,4 +106,7 @@ Displays the current system version and tracks update history.
 ---
 
 ## 📫 Contact
+
+📧 [Email Me](mailto:michael.e.freese.tech@gmail.com)
+
 Open to feedback, collaboration, and opportunities.
