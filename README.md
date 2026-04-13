@@ -1,7 +1,6 @@
 # Employee Availability System
 
-A Google Apps Script-based system built to manage employee availability inside Google Sheets, designed for real-world store operations.
-
+A real-world scheduling automation tool built for high-volume store operations, reducing manual workload and human error using Google Sheets + Apps Script.
 ---
 
 ## 🚀 Live Demo
@@ -17,7 +16,7 @@ Status: **Active development (internal system adapted for public showcase)**
 
 ---
 
-## 🔧 What It Does
+## 🔧 Core Capabilities
 - Tracks employee availability across the week
 - Automates dropdown validation and role selection
 - Restores full sheet structure and formatting
@@ -33,7 +32,8 @@ Status: **Active development (internal system adapted for public showcase)**
 ---
 
 ## 💡 Why I Built This
-Managing employee availability manually is time-consuming and error-prone.
+It automates validation, formatting, and structure—reducing mistakes and improving efficiency in day-to-day store operations.
+Built from real operational experience managing high-volume shifts.
 
 This system was built to streamline the process by automating validation, formatting, and structure—reducing mistakes and improving efficiency in day-to-day store operations.
 
@@ -48,19 +48,45 @@ This system was built to streamline the process by automating validation, format
 
 ---
 
+## 🚀 How to Use
+
+1. Open the Google Sheet
+2. Navigate to the INPUT tab
+3. Select employee + role
+4. Enter availability
+5. Use buttons to Add / Update / Remove
+
+---
+
 ## 📸 Screenshots
+
+---
 
 ### Cover Sheet (Request Form)
 ![Cover Sheet](Cover.jpg)
 
+Handles weekly request submissions and displays scheduling deadlines.
+
+---
+
 ### Input Sheet (Data Entry Interface)
 ![Input Sheet](Input.jpg)
+
+Interactive interface for adding, updating, and removing employee availability.
+
+---
 
 ### Info Sheet (System Configuration)
 ![Info Sheet](Info.jpg)
 
+Controls scheduling periods, week ranges, and system-level settings.
+
+---
+
 ### Version Display Popup
 ![Version Popup](version-history.jpg)
+
+Displays the current system version and tracks update history.
 
 ---
 
