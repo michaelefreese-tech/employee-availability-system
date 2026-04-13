@@ -51,16 +51,16 @@ This system was built to streamline the process by automating validation, format
 ## 📸 Screenshots
 
 ### Cover Sheet (Request Form)
-![Cover Sheet](images/sheet-overview_1.png)
+![Cover Sheet](images/sheet-overview_1.jpg)
 
 ### Input Sheet (Data Entry Interface)
-![Input Sheet](images/sheet-overview_2.png)
+![Input Sheet](images/sheet-overview_2.jpg)
 
 ### Info Sheet (System Configuration)
-![Info Sheet](images/sheet-overview_3.png)
+![Info Sheet](images/sheet-overview_3.jpg)
 
 ### Version Display Popup
-![Version Popup](images/version-history.png)
+![Version Popup](images/version-history.jpg)
 
 ---
 
